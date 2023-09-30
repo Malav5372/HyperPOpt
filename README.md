@@ -5,7 +5,7 @@ Automatically save and learn from Experiment results, leading to long-term, pers
 HyperparameterHunter provides a wrapper for machine learning algorithms that saves all the important data. Simplify the experimentation and hyperparameter tuning process by letting HyperparameterHunter do the hard work
 of recording, organizing, and learning from your tests — all while using the same libraries you already do. Don't let any of your experiments go to waste, and start doing hyperparameter optimization the way it was meant to be.
 
-## This project is structured into three distinct processes, each designed to simplify and enhance your hyperparameter optimization experience:
+## This project is structured into three distinct processes, each designed to simplify and enhance your hyperparameter optimization experience. Explore the intricacies of this project by watching videos on each of the three vital processes: Consolidate, Experiment, and Optimize at. These videos provide an insightful, in-depth look to transform your hyperparameter optimization experience.
 
 ### Consolidate:
 
