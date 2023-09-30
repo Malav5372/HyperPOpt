@@ -81,7 +81,7 @@ Perform Experiments with your favorite libraries simply by providing model initi
 <details>
 <summary>Keras</summary>
 
-```python
+
 # Same format used by `keras.wrappers.scikit_learn`. Nothing new to learn
 def build_fn(input_shape):  # `input_shape` calculated for you
     model = Sequential([
@@ -100,7 +100,7 @@ experiment = CVExperiment(
         batch_size=32, epochs=10, verbose=0  # Fit/predict arguments
     )
 )
-```
+
 
 </details>
 
