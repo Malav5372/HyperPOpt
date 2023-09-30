@@ -5,8 +5,6 @@ of recording, organizing, and learning from your tests — all while using the s
 
 This project is structured into three distinct processes, each designed to simplify and enhance your hyperparameter optimization experience. 
 
-## Explore the intricacies of this project by watching videos on each of the three vital processes: Consolidate, Experiment, and Optimize at. These videos provide an insightful, in-depth look to transform your hyperparameter optimization experience.
-
 ### Consolidate:
 
 The Consolidate process represents a significant transformation in hyperparameter optimization, The core objective here is to simplify and streamline the entire process of hyperparameter optimization. Instead of laboriously crafting extensive code, users can now achieve the same, results with just few lines of code.
