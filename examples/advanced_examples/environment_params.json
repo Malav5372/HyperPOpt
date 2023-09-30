@@ -1,0 +1,18 @@
+{
+  "results_path": "HyperparameterHunterAssets",
+  "target_column": "diagnosis",
+  "metrics": [
+    "roc_auc_score",
+    "f1_score"
+  ],
+  "cv_type": "StratifiedKFold",
+  "cv_params": {
+    "n_splits": 10,
+    "shuffle": true,
+    "random_state": 117
+  },
+  "runs": 3,
+  "file_blacklist": [
+    "heartbeat"
+  ]
+}
