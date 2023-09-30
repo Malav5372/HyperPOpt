@@ -27,8 +27,6 @@ The Optimize process offers a comprehensive suite of tools to fine-tune your mac
 
 https://github.com/Malav5372/HyperPOpt/assets/144440737/aa6bd201-0d42-431a-be66-1651294d0216
 
-* **Source:** https://github.com/Malav5372/HyperPOpt
-
 Features
 --------
 * Automatically record Experiment results
