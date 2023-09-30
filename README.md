@@ -78,10 +78,6 @@ env = Environment(
 Perform Experiments with your favorite libraries simply by providing model initializers and hyperparameters
 <!-- Keras -->
 
-<details>
-<summary>Keras</summary>
-
-
 # Same format used by `keras.wrappers.scikit_learn`. Nothing new to learn
 def build_fn(input_shape):  # `input_shape` calculated for you
     model = Sequential([
@@ -101,8 +97,6 @@ experiment = CVExperiment(
     )
 )
 
-
-</details>
 
 <!-- SKLearn -->
 <details>
