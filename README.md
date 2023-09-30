@@ -5,19 +5,19 @@ of recording, organizing, and learning from your tests — all while using the s
 
 This project is structured into three distinct processes, each designed to simplify and enhance your hyperparameter optimization experience. 
 
-### Consolidate:
+### 1. Consolidate:
 
 The Consolidate process represents a significant transformation in hyperparameter optimization, The core objective here is to simplify and streamline the entire process of hyperparameter optimization. Instead of laboriously crafting extensive code, users can now achieve the same, results with just few lines of code.
 
 https://github.com/Malav5372/HyperPOpt/assets/144440737/bedd1db6-c53d-4509-980b-2fb88ccc5e93
 
-### Experiment:
+### 2. Experiment:
 
 In the Experiment process, you have the freedom to choose the machine learning libraries you prefer and provide the hyperparameters of your choice. HyperPOpt takes care of organizing your results, providing instant insights into how experiments stack up against each other. Compare algorithms, hyperparameters, cross-validation schemes, and more effortlessly. This process empowers you to make data-driven decisions and optimize your models effectively.
 
 https://github.com/Malav5372/HyperPOpt/assets/144440737/8dc0e8e5-5556-40e8-b3be-67a12ac93fcf
 
-### Optimize!:
+### 3. Optimize!:
 
 The Optimize process offers a comprehensive suite of tools to fine-tune your machine learning algorithms and libraries. You have the flexibility to select optimization protocols, define clear hyperparameter search boundaries, and leverage previous experiments for data without explicit input. Experience live updates to your leaderboard and results, enabling you to safely terminate optimization early or continue until you achieve the desired outcomes. With truly informed optimization that learns from past rounds, including yesterday's efforts and last year's one-off experiments.
 
