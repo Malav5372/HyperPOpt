@@ -335,8 +335,9 @@ HyperPOptAssets
 
 Installation
 ------------
+feel free to clone my repository 
 
-
+https://github.com/Malav5372/HyperPOpt.git
 
 I Still Don't Get It
 --------------------
