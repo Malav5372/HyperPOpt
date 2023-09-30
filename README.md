@@ -1,28 +1,26 @@
-HyperparameterHunter
+# HyperPOpt : Elevate the performance of your machine learning algorithms and libraries effortlessly with advanced hyperparameter optimization.
 ====================
-
-![HyperparameterHunter Overview](docs/media/overview.gif)
-
-[![Build Status](https://travis-ci.org/HunterMcGushion/hyperparameter_hunter.svg?branch=master)](https://travis-ci.org/HunterMcGushion/hyperparameter_hunter)
-[![Documentation Status](https://readthedocs.org/projects/hyperparameter-hunter/badge/?version=stable)](https://hyperparameter-hunter.readthedocs.io/en/stable/?badge=stable)
-[![Coverage Status](https://coveralls.io/repos/github/HunterMcGushion/hyperparameter_hunter/badge.svg)](https://coveralls.io/github/HunterMcGushion/hyperparameter_hunter?branch=master&service=github)
-[![codecov](https://codecov.io/gh/HunterMcGushion/hyperparameter_hunter/branch/master/graph/badge.svg)](https://codecov.io/gh/HunterMcGushion/hyperparameter_hunter)
-[![Maintainability](https://api.codeclimate.com/v1/badges/ef0d004a10ede0b228cc/maintainability)](https://codeclimate.com/github/HunterMcGushion/hyperparameter_hunter/maintainability)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1413b76fabe2400fab1958e70be593a2)](https://www.codacy.com/app/HunterMcGushion/hyperparameter_hunter?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=HunterMcGushion/hyperparameter_hunter&amp;utm_campaign=Badge_Grade)
-
-[![PyPI version](https://badge.fury.io/py/hyperparameter-hunter.svg)](https://badge.fury.io/py/hyperparameter-hunter)
-[![Downloads](https://pepy.tech/badge/hyperparameter-hunter)](https://pepy.tech/project/hyperparameter-hunter)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q3EX3PQUV256G)
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
 
 Automatically save and learn from Experiment results, leading to long-term, persistent optimization that remembers all your tests.
 
 HyperparameterHunter provides a wrapper for machine learning algorithms that saves all the important data. Simplify the experimentation and hyperparameter tuning process by letting HyperparameterHunter do the hard work
 of recording, organizing, and learning from your tests — all while using the same libraries you already do. Don't let any of your experiments go to waste, and start doing hyperparameter optimization the way it was meant to be.
 
-* **Installation:** `pip install hyperparameter-hunter`
-* **Source:** https://github.com/HunterMcGushion/hyperparameter_hunter
-* **Documentation:** [https://hyperparameter-hunter.readthedocs.io](https://hyperparameter-hunter.readthedocs.io/en/latest/index.html)
+# This project is structured into three distinct processes, each designed to simplify and enhance your hyperparameter optimization experience:
+
+## Consolidate:
+
+https://github.com/Malav5372/HyperPOpt/assets/144440737/bedd1db6-c53d-4509-980b-2fb88ccc5e93
+
+## Experiment:
+
+https://github.com/Malav5372/HyperPOpt/assets/144440737/8dc0e8e5-5556-40e8-b3be-67a12ac93fcf
+
+## Optimize!
+
+https://github.com/Malav5372/HyperPOpt/assets/144440737/aa6bd201-0d42-431a-be66-1651294d0216
+
+* **Source:** https://github.com/Malav5372/HyperPOpt
 
 Features
 --------
