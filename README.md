@@ -1,13 +1,11 @@
 # HyperPOpt : Elevate the performance of your machine learning algorithms and libraries effortlessly with advanced hyperparameter optimization.
 
-Welcome to my research-based project HyperOpt based on hyperparameter optimization. This endeavor stands as one of my ambitious and advanced research initiatives, delving deep into the fascinating field of optimizing hyperparameters. Explore this project to gain insights into the innovative solutions and transformative discoveries that have emerged from my research. Automatically save and learn from Experiment results, leading to long-term, persistent optimization that remembers all your tests.
-
 HyperPOpt provides a wrapper for machine learning algorithms that saves all the important data. Simplify the experimentation and hyperparameter tuning process by letting HyperPOpt do the hard work
 of recording, organizing, and learning from your tests — all while using the same libraries you already do. Don't let any of your experiments go to waste, and start doing hyperparameter optimization the way it was meant to be.
 
-## This project is structured into three distinct processes, each designed to simplify and enhance your hyperparameter optimization experience. 
+This project is structured into three distinct processes, each designed to simplify and enhance your hyperparameter optimization experience. 
 
-### Explore the intricacies of this project by watching videos on each of the three vital processes: Consolidate, Experiment, and Optimize at. These videos provide an insightful, in-depth look to transform your hyperparameter optimization experience.
+## Explore the intricacies of this project by watching videos on each of the three vital processes: Consolidate, Experiment, and Optimize at. These videos provide an insightful, in-depth look to transform your hyperparameter optimization experience.
 
 ### Consolidate:
 
