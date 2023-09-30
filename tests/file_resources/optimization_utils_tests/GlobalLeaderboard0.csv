@@ -1,0 +1,11 @@
+oof_roc_auc_score,experiment_id,hyperparameter_key,cross_experiment_key,algorithm_name,experiment_#
+0.9679787009143280,id_1,hyperparameter_key_1,env_key_1,alg_c,1
+0.9539334601765234,id_4,hyperparameter_key_2,env_key_3,alg_b,4
+0.9285053644099150,id_0,hyperparameter_key_0,env_key_0,alg_a,0
+0.9206173035251836,id_9,hyperparameter_key_7,env_key_0,alg_g,9
+0.8866666666666666,id_2,hyperparameter_key_2,env_key_2,alg_b,2
+0.8866666666666666,id_3,hyperparameter_key_2,env_key_2,alg_b,3
+0.8842820146926695,id_6,hyperparameter_key_4,env_key_0,alg_e,6
+0.8833333333333333,id_7,hyperparameter_key_5,env_key_5,alg_d,7
+0.8800000000000000,id_5,hyperparameter_key_3,env_key_4,alg_d,5
+0.5000000000000000,id_8,hyperparameter_key_6,env_key_0,alg_f,8
