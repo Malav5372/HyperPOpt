@@ -1,13 +1,13 @@
 Quick Start
 ***********
-This section provides a jumping-off point for using HyperparameterHunter's main features.
+This section provides a jumping-off point for using HyperPOpt main features.
 
 Set Up an Environment
 =====================
 
 .. code-block:: python
 
-    from hyperparameter_hunter import Environment, CVExperiment
+    from HyperPOpt import Environment, CVExperiment
     import pandas as pd
     from sklearn.datasets import load_breast_cancer
     from sklearn.model_selection import StratifiedKFold
@@ -40,7 +40,7 @@ Hyperparameter Optimization
 
 .. code-block:: python
 
-    from hyperparameter_hunter import BayesianOptPro, Real, Integer, Categorical
+    from HyperPOpt import BayesianOptPro, Real, Integer, Categorical
 
     optimizer = BayesianOptPro(iterations=10, read_experiments=True)
 
