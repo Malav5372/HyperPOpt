@@ -48,7 +48,7 @@ Getting Started
 
 Set up an Environment to organize Experiments and Optimization results.
 <br>
-Any Experiments or Optimization rounds we perform will use our active Environment.
+Any Experiments or Optimization rounds I perform will use my active Environment.
 
 ```python
 from HyperPOpt import Environment, CVExperiment
